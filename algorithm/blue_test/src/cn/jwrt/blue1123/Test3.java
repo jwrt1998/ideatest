@@ -26,5 +26,6 @@ public class Test3 {
             }
         }
         System.out.println(max + " " + index);
+        System.out.println(max + " " + index);
     }
 }
